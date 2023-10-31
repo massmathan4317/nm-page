@@ -1,0 +1,155 @@
+
+ *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* background-image: url(/images/1..jpg); */
+    /* background-size: cover; */
+    /* object-fit: cover; */
+}
+.flex
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+.card2
+{
+    display: flex;
+     justify-content: space-evenly;
+     border-radius: 10%;
+}
+/* .box
+{
+    margin-left: 77%;
+} */
+.slide
+{
+    background-image: cover;
+    margin-bottom: 5%;
+    margin-top: 10rem;
+    
+
+
+
+} 
+.image2
+{
+    background-size: cover;
+    height: 55rem;
+    width: 100vw;
+    border-radius: 20%; 
+    /* justify-content: center; */
+}    
+
+.img67{
+    object-fit: cover;
+}
+
+ .card
+ {
+
+     background:transparent; 
+}
+.footer
+{
+    margin-left: 3rem;
+    margin-bottom:5%;
+    margin-top: 10%;
+}
+.icon
+{
+    margin-left: 45%;
+}       
+/* .map
+{
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+} */
+
+
+.footerfull
+{
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-left: 10%; */
+    
+}
+/* .nav
+{
+    margin-top:5%;
+    justify-content: space-around;
+    margin-right: 50%;
+    border-radius: 10%;
+
+} */
+.apple
+{
+    margin-left: 40%;
+    margin-top: 5%;
+    
+
+}
+.header
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10%;
+}
+.container
+{
+   
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: space-between;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+.side
+{
+    display: flex;
+     justify-content:space-evenly ; 
+    /* justify-content: flex-end; */
+
+    
+    
+}
+.photo
+{
+    /* align-items: left; */
+    /* width:160px; */
+    /* margin-left: 4%; */
+    /* margin-right: 5%; */
+    margin-left: 10%;
+
+}
+.pg
+{
+    margin: 0;
+    padding: 0;
+}
+.side2
+{
+    margin-top: 10%;
+    display: flex;
+     /* justify-content:space-evenly ;  */
+     justify-content: space-around;
+     /* justify-content: space-between; */
+}
+.pg2
+{
+    margin-right: 20%;
+    margin: 0%;
+    padding: 0%;
+}
+.imgcard
+{
+    background-image: cover;
+    height: 55rem;
+    width: 100vw;
+}
